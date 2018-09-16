@@ -7,7 +7,6 @@ public class MatrizTridimensional {
 		//Cada elemento da matriz é a soma de seus índices.
 		//O algoritmo cria no primeiro laço os valores em cada índice
 		//No segundo laço o algoritmo soma os mesmos e define se tal valor é par ou impar.
-		//Ajuste**
 		
 		int[][][] matrizTridimensional = new int[3][3][3];
 		int soma = 0;
